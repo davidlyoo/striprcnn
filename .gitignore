@@ -1,0 +1,14 @@
+data/
+work_dirs/
+test_results/
+*.png
+checkpoints/
+*.pth
+*.log
+*.pt
+*.pth
+*.tar
+pretrained/
+__pycache__/
+*.pyc
+*.pyo
