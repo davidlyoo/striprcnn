@@ -1,3 +1,16 @@
+> 📌 **Notice**:  
+> This repository is based on the original official implementation of  
+> **Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection**  
+> available at: [https://github.com/YXB-NKU/Strip-R-CNN](https://github.com/YXB-NKU/Strip-R-CNN)  
+> 
+> This version includes the following modifications for internal testing and demo delivery:
+> - Added custom dataset config: `v6.py`
+> - Added Strip R-CNN test config: `strip_rcnn_s_fpn_1x_v6_le90.py`
+> - Included `environment.yml` for reproducible setup
+> - Minor adjustments to `tools/test.py` for visualization
+> 
+> This fork is licensed under the original CC BY-NC 4.0 license and is for **non-commercial use only**.
+
 <h1 align="center">Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection</h1>
 
 <div align="center">
